@@ -36,7 +36,7 @@ Give credit here.
 Created by [@kanhu123mishra] - feel free to contact me!
 
 ### Contributors
-- Samir K (samirt19@gmail.com
+- Samir K (samirt19@gmail.com)
 
 
 <!-- Optional -->
