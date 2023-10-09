@@ -4,11 +4,11 @@ The company wants to understand the driving factors behind defaulting a loan , i
 
 
 ## Table of Contents
-### *Project Description*
+### **Project Description**
 Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders.In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 The objective of the case study would be to identify the risky loan applicants and hence reducing the credit loss and also will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
-The project involved the below *steps* for solving the problem statement:
+The project involved the below **steps** for solving the problem statement:
 1)Data loading
 
 2)EDA and data story telling
@@ -18,20 +18,20 @@ The project involved the below *steps* for solving the problem statement:
   - Dropping single value columns
   - Filtering data with loan_status='Current'
   - Dropping fields with least significance for analysis
-  - *Data standardization*
-  - *Treating missing values*
-  - *Outlier identification & treatment*
+  - **Data standardization**
+  - **Treating missing values**
+  - **Outlier identification & treatment**
     
 4) Data Analysis:
-  - *Univariate Analysis*
-  - *Bivariate Analysis*
-  - *Multivariate Analysis*
-  - *Derived Metric Generation & Analysis*
+  - **Univariate Analysis**
+  - **Bivariate Analysis**
+  - **Multivariate Analysis**
+  - **Derived Metric Generation & Analysis**
 
 5) Conclsuion/Insights
 
 
-### *Technologies Used*
+### **Technologies Used**
 Numpy Version       => 1.18.1
 
 Pandas Version      =>   1.1.5
@@ -62,9 +62,12 @@ The below mentioned conclusions can be drawn from the analysis performed, the ch
 ## Acknowledgements
 - This project was inspired by https://www.linkedin.com/in/akashdeep-makkar-12110880/
 - This project was based on referring the below references for any issues faced:
-  *For revisioning the topics:* Upgrad's Live Session & Notes
-  *Panda dataframe read error:* https://stackoverflow.com/questions/24251219/pandas-read-csv-low-memory-and-dtype-options.
-  *Seaborn countplot:* https://www.geeksforgeeks.org/countplot-using-seaborn-in-python/
+  
+  **For revisiting topics:** Upgrad's Live Session & Notes
+  
+  **Panda dataframe read error:** https://stackoverflow.com/questions/24251219/pandas-read-csv-low-memory-and-dtype-options.
+  
+  **Seaborn countplot:** https://www.geeksforgeeks.org/countplot-using-seaborn-in-python/
   
 
 
