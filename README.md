@@ -54,7 +54,7 @@ The below mentioned conclusions can be drawn from the analysis performed, the ch
 
 6) Customer taken loan in the year 2011. May be due to macro economic changes.
 
-7) Non-Verified customer
+7) Verified customers
 
 8) Customer with loan amount 5k-10k with high term. These are sub prime customer.
 
