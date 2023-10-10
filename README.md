@@ -9,6 +9,7 @@ Lending loans to ‘risky’ applicants is the largest source of financial loss 
 The objective of the case study would be to identify the risky loan applicants and hence reducing the credit loss and also will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 The project involved the below **steps** for solving the problem statement:
+
 1)Data loading
 
 2)EDA and data story telling
@@ -72,7 +73,9 @@ The below mentioned conclusions can be drawn from the analysis performed, the ch
 
 
 ## Contact
-Created by [@kanhu123mishra] - feel free to contact me!
+Created by [@kanhu123mishra] & @samt9167 - feel free to contact me!
+
+
 
 ### Contributors
 - Samir K (samirt19@gmail.com)
